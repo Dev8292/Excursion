@@ -1,0 +1,40 @@
+body {
+  font-family: verdana;
+  background-color: black;
+  }
+
+  h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
+
+p {
+  text-align: center;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: grey;
+  font-size: 21px;
+}
+p {
+  display: block;
+  -webkit-marging-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+.footer {
+  color: grey;
+  font-family: sans-serif;
+  font-size: 10px;
+  text-align: right;
+}
